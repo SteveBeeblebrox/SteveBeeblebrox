@@ -1,6 +1,11 @@
-### Hi there 👋
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SteveBeeblebrox&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true&card_width=349)
 
-<!--
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=SteveBeeblebrox&hide=javascript%2Ccss&hide_title=true&langs_count=10&layout=compact&theme=transparent)
+
+
+<!--### Hi there 👋
+
+
 **SteveBeeblebrox/SteveBeeblebrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
